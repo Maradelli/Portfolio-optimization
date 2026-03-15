@@ -11,6 +11,7 @@
 6) Seaborn
 7) Requests
 8) APIMOEX
+9) Streamlit
 
 ## Математический аппарат
 
