@@ -3,7 +3,9 @@
 [PO.webm](https://github.com/user-attachments/assets/15015b8f-b1ce-4d9c-9207-a819bd75e70a)
 
 
-Russian version -> [here](https://github.com/Maradelli/Portfolio-optimization/blob/main/README.md)
+Russian version -> [здесь](https://github.com/Maradelli/Portfolio-optimization/blob/main/README.md)
+
+Test the application -> [here](https://portfolio-optimization-btdubnxtwt7nntxdf3cdvv.streamlit.app/)
 
 An interactive web application for optimizing an investment portfolio based on shares of the Moscow Stock Exchange. The project implements **Harry Markowitz's Modern Portfolio Theory** to find a portfolio with minimal risk. 
 ## ✨ Main features
