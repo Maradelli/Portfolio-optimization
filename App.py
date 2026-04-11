@@ -15,6 +15,9 @@ tickers_input = st.sidebar.text_input('Тикеры (через запятую)'
 
 tickers = [t.strip().upper() for t in tickers_input.split(',') if t.strip()]
 
+for _ in range(5):
+    st.sidebar.write("")
+    
 start_date = st.sidebar.date_input('Дата начала анализа', value=pd.to_datetime('2023-01-01'))
 
 if st.sidebar.button('Рассчитать оптимальный портфель'):
