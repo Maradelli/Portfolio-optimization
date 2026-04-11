@@ -1,4 +1,8 @@
 # 📈 MOEX Portfolio Optimizer (Markowitz Model)
+
+[PO.webm](https://github.com/user-attachments/assets/15015b8f-b1ce-4d9c-9207-a819bd75e70a)
+
+
 Russian version -> [here](https://github.com/Maradelli/Portfolio-optimization/blob/main/README.md)
 
 An interactive web application for optimizing an investment portfolio based on shares of the Moscow Stock Exchange. The project implements **Harry Markowitz's Modern Portfolio Theory** to find a portfolio with minimal risk. 
