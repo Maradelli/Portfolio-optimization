@@ -1,4 +1,8 @@
 # 📈 MOEX Portfolio Optimizer (Markowitz Model)
+
+[PO.webm](https://github.com/user-attachments/assets/9a279628-dd03-435c-8601-d634db685d9b)
+
+
 English version -> [here](README-EN.md)
 
 Интерактивное веб-приложение для оптимизации инвестиционного портфеля на основе акций Московской Биржи. Проект реализует **Современную портфельную теорию** Гарри Марковица для поиска портфеля с минимальным риском.
