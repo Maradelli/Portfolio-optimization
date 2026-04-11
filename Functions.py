@@ -27,7 +27,7 @@ def get_moex_data(tickers, start_date):
             return pd.DataFrame()
             
         final_df = pd.concat(all_data, axis=1, join='outer')
-        final_df = final_df.sort_index().fillna(method='ffill')
+        final_df = final_df.sort_index().ffill()
         
         final_df = final_df.dropna()
         
